@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently preparing for placement.<br>🤝I’m looking for help with data science.<br>🌱 I’m currently learning more about life.<br>💬 Ask me about tech-related stuff.<br>⚡ Fun fact I have dancing tree.
+🔭 I’m currently preparing for placement.<br>🤝 I’m looking for help with data science.<br>🌱 I’m currently learning more about life.<br>💬 Ask me about tech-related stuff.<br>⚡ Fun fact I have dancing tree.
 
 
 ## 🌐 Socials:
